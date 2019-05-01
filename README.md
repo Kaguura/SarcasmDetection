@@ -1,5 +1,5 @@
 # SarcasmDetection
-This research group project was completed in partial fulfilment of the requirements for the degree of Masters of Science in Computer Engineering at the San Jose State University and under the careful supervision of Dr. Mahima Agumbe Suresh, our instructor of Machine Learning course.<br />
+This research group project was completed in partial fulfilment of the requirements for the CMPE257 Machine Learning course at the San Jose State University and under the careful supervision of Dr. Mahima Agumbe Suresh.<br />
 
 Natural Language Processing (NLP) is a common theme in research and applications nowadays. Chatbots, voice assistants, product recommender systems based on opinion mining - all these require computers to understand human language. A sarcastic sentence means the opposite of its literal meaning. Even for humans, it is hard sometimes to recognize sarcasm if the context is not provided.  That is why sarcasm detection remains a challenge in NLP.<br />
 
