@@ -15,6 +15,8 @@ The code included in this repository has been tested to work with Python ".....v
 
 
 ## Installation and Running
+Download the [DataSet](https://www.kaggle.com/danofer/sarcasm#train-balanced-sarcasm.csv) and save as train-balanced-sarcasm.csv and upload it to jupyter notebook in the same directory Sarcasm_Detection.ipynb
+
 
 ## Results
 Here are the results obtained on the considered datasets.
