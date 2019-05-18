@@ -7,22 +7,10 @@ Sarcasm detection is a binary classification problem. The labeled datasets avail
 
 We investigated various methods to detect sarcasm in sentences, using both traditional machine learning (SVMs and Logistic Regressors on discrete features). In our project, we intend to use relatively new database acquired from Reddit. As per our knowledge, not much research has been done on this data. The database creators have only tried Logistic Regression for sarcasm detection. We, in turn, plan to try Ensemble methods such as Random Forest and Bootstrap Aggregation applied on SVM and Logistic Regression classifiers. The results is evaluated with precision and recall metrics along with accuracy to get a better understanding of the performance of our approach.
 
-## Overview
-".....overview of all the folders in branch master....."
-
-## Dependencies
-The code included in this repository has been tested to work with Python ".....version....." on an ".....which OS?.....", using Keras 2.0.8 with Tensorflow as the backend. Following is the list of requirements to run the code-
-
 
 ## Installation and Running
 Download the [DataSet](https://www.kaggle.com/danofer/sarcasm#train-balanced-sarcasm.csv) and save as train-balanced-sarcasm.csv and upload it to jupyter notebook in the same directory Sarcasm_Detection.ipynb
 
-
-## Results
-Here are the results obtained on the considered datasets.
-".....image....."
-
-## Visualization
 
 ## Disclaimer
 The main purpose of this project is not to produce an optimal solution for Sarcasm Detection. However, it is fast enough for most purposes. The dataset that we have chosen for this project, Reddit, is relatively new dataset as comparision to amazon, twitter, kaggle etc. The database creators have only tried Logistic Regression for sarcasm detection. Besides, We have tried Ensemble methods such as Random Forest and Bootstrap Aggregation applied on SVM and Logistic Regression classifiers. The results has been evaluated with precision and recall metrics along with accuracy to draw some useful conclusions about sarcasm detection. Although the code has been tested using various testcases, we cannot guarantee that the code is bugfree. So, use the code on your own responsibility.
